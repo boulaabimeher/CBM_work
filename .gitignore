@@ -195,3 +195,5 @@ cython_debug/
 
 /data
 data/train.csv
+Folder_structure.txt
+src_chexpert/
