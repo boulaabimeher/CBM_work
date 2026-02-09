@@ -197,3 +197,5 @@ cython_debug/
 data/train.csv
 Folder_structure.txt
 src_chexpert/
+checkpoints/
+next_code/
