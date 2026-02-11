@@ -198,5 +198,6 @@ data/train.csv
 Folder_structure.txt
 src_chexpert/
 checkpoints/
-next_code/
+test_code/
 notes/
+cbm_codes/
