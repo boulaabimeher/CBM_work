@@ -128,14 +128,3 @@ The goal is to build reliable and clinically meaningful concept bottlenecks that
 - and enable medically grounded decision support.
 
 ---
-
-## Author
-
-**Meher Boulaabi**  
-PhD student – Artificial Intelligence & Medical Image Analysis  
-
-Research interests:
-- Concept Bottleneck Models (CBM)
-- Interpretable and trustworthy AI
-- Medical image classification and segmentation
-- Concept learning and clinical reasoning
